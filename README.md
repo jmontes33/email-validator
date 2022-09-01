@@ -18,7 +18,7 @@ In this Frontend Mentor project I have created an email validator, I have used H
 
 ### Screenshot
 
-!./screenshot.JPG
+![Project finished](./screenshot.JPG)
 
 ## My process
 
