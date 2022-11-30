@@ -10,8 +10,6 @@ This is a solution to the [Ping coming soon page challenge on Frontend Mentor](h
   - [Built with](#built-with)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 In this Frontend Mentor project I have created an email validator, I have used HTML, CSS and JavaScript
@@ -39,6 +37,5 @@ Finally, for the validator to work, I used javascript, creating a function that 
 
 ## Author
 
-- Frontend Mentor - [@jmontes33](https://www.frontendmentor.io/profile/jmontes33)
-- Twitter - [@jmontes_16](https://twitter.com/jmontes_16)
-- Instagram - [@jmontes_16](https://www.instagram.com/jmontes_16/)
+- TikTok - [@elrincondeldev](https://www.tiktok.com/@elrincondeldev)
+- Instagram - [@elrincondeldev](https://www.instagram.com/elrincondeldev/)
