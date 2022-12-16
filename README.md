@@ -14,6 +14,8 @@ This is a solution to the [Ping coming soon page challenge on Frontend Mentor](h
 
 In this Frontend Mentor project I have created an email validator, I have used HTML, CSS and JavaScript
 
+Link to the app: https://serene-marigold-e09c87.netlify.app
+
 ### Screenshot
 
 ![Project finished](./screenshot.JPG)
